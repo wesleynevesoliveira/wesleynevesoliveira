@@ -13,5 +13,5 @@ Would you like to find me?
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__wesleyneves/)](https://www.instagram.com/__wesleyneves/) 
 
 - :office_worker: Student searching for new opportunities
-- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Gatsby, etc.
+- :blue_heart: Techs: JavaScript, React.js, React Native, Node.js, TypeScript, etc.
 
