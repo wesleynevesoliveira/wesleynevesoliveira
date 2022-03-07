@@ -8,9 +8,7 @@ Would you like to find me?
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wesleynevesoliveira)](https://github.com/wesleynevesoliveira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleynevesoliveira/)](https://www.linkedin.com/in/wesleynevesoliveira/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55012997624270&text=OI!)](https://api.whatsapp.com/send?phone=55012997624270&text=OI!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.neves.oliveira@gmail.com)](mailto:wesley.neves.oliveira@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__wesleyneves/)](https://www.instagram.com/__wesleyneves/) 
 
 - :office_worker: Student searching for new opportunities
 - :blue_heart: Techs: JavaScript, React.js, React Native, Node.js, TypeScript, etc.
